@@ -1,4 +1,4 @@
-# Photo Editor App
+## Photo Editor App
 
 This is a simple photo editor app built using Tkinter, a Python GUI toolkit. It allows users to perform basic image editing operations such as cropping, rotating, and applying filters to images.
 
@@ -38,4 +38,3 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 License
 MIT License
-
